@@ -1,0 +1,27 @@
+html {
+  font-family: Helvetica;
+}
+/* main heading */
+h1 {
+  background-image: url("/Users/YogaMike/Desktop/projects/Dasmoto/resources/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+/* sub headings */
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+/* sub headings - individual background colors */
+#brushes {
+  background-color: mediumspringgreen;
+}
+#frames {
+  background-color: lightcoral;
+}
+#paint {
+  background-color: skyblue;
+}
